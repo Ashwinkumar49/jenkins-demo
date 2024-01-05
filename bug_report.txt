@@ -1,0 +1,6 @@
+This is a file containing all bugs since the last release deployment.
+
+Please find below bugs:
+
+- Issue in Reset password link redirection in Login page
+- Sidebar collapse not working
