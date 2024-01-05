@@ -3,12 +3,12 @@ pipeline{
   stages{
     stage(build){
       steps{
-        echo "This is a build stage..."
+        echo "Feature Branch - build stage..."
       }
     }
     stage(test){
       steps{
-        echo "This is a test stage in Jenkins pipeline..."
+        echo "Feature Branch - test stage in Jenkins pipeline..."
       }
     }
   }
